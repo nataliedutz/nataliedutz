@@ -1,4 +1,4 @@
-# Here you can follow my current coding project:
+**Here you can follow my current coding project:**  
 [My Warehouse Project](https://nataliedutz.github.io/warehouse_project/)
 
 ## Hi there 👋

@@ -5,4 +5,4 @@
 - 📚 I am currently learning advanced OOP concepts
 
 **Here you can follow my current coding project:**  
-[My Warehouse Project]([https://github.com/nataliedutz/warehouse_project.git])
+[My Warehouse Project](https://github.com/nataliedutz/warehouse_project.git)
